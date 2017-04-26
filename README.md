@@ -7,12 +7,9 @@ Github：https://github.com/huanxsd/MeiTuan
 简书：http://www.jianshu.com/p/9211f42d5c25
 
 ##  iOS截图
-
-<img src="https://github.com/huanxsd/MeiTuan/blob/master/screenshot/iOS_0.png">
-
-<img src="https://github.com/huanxsd/MeiTuan/blob/master/screenshot/iOS_1.png">
-
-<img src="https://github.com/huanxsd/MeiTuan/blob/master/screenshot/iOS_2.png">
+![](https://github.com/huanxsd/MeiTuan/blob/master/screenshot/iOS_0.png)
+![](https://github.com/huanxsd/MeiTuan/blob/master/screenshot/iOS_1.png)
+![](https://github.com/huanxsd/MeiTuan/blob/master/screenshot/iOS_2.png)
 
 ## Android截图
 
