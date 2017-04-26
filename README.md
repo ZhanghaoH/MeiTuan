@@ -12,12 +12,9 @@ Github：https://github.com/huanxsd/MeiTuan
 ![](https://github.com/huanxsd/MeiTuan/blob/master/screenshot/iOS_2.png)
 
 ## Android截图
-
-<img src="https://github.com/huanxsd/MeiTuan/blob/master/screenshot/Android_0.png">
-
-<img src="https://github.com/huanxsd/MeiTuan/blob/master/screenshot/Android_1.png">
-
-<img src="https://github.com/huanxsd/MeiTuan/blob/master/screenshot/Android_2.png">
+![](https://github.com/huanxsd/MeiTuan/blob/master/screenshot/Android_0.png)
+![](https://github.com/huanxsd/MeiTuan/blob/master/screenshot/Android_1.png)
+![](https://github.com/huanxsd/MeiTuan/blob/master/screenshot/Android_2.png)
 
 ## 简介
 
